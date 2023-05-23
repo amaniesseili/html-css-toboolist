@@ -28,4 +28,20 @@ body{
     height: 600px;
     margin: auto;
     /*vertical-align: bottom; perche nn funziona ? */
+    padding: 40px;
+}
+
+#button-style{ 
+    background-color: rgb(89, 149, 228);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    border-color: rgb(89, 149, 228);
+}
+
+#text-style{
+    border-radius: 5px;
+    padding: 5px;
+    border-color: lightgray;
+
 }
