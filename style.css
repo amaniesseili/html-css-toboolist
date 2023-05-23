@@ -61,3 +61,13 @@ hr{
     height: 2px;
 
 }  come faccio e renderlo piu piccolo*/
+
+.check-mark{
+    background-color: rgb(240, 242, 243);
+    border-radius: 50%;
+    padding: 5px;
+    /* border-color: rgb(14, 118, 14); */
+    color: rgb(42, 165, 95);
+    
+}
+
